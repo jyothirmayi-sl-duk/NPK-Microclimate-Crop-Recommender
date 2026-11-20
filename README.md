@@ -1,1 +1,1 @@
-# NPK-Microclimate-Crop-Recommender
+# crop-suitability-recommender
